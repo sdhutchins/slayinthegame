@@ -33,7 +33,7 @@ google_analytics: UA-XXXXXXXXX-X
 
 # Disqus Comments
 disqus:
-  shortname: slayinthegame  # Replace with your Disqus shortname
+  shortname: slayinmaven  # Replace with your Disqus shortname
   show_comments: true
 
 # Build Settings
