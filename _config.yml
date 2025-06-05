@@ -1,0 +1,44 @@
+# Site Settings
+title: Slayin' the Game
+email: thereignofmaven@gmail.com
+description: A blog about basketball.
+author: Maven
+tagline: "Where Basketball Analysis Meets Data Science"
+
+# Site URL
+baseurl: ""
+url: "https://slayinthegame.com"
+
+# Social Profiles
+twitter_username: slayinmaven
+github_username: mavennba
+facebook_username:
+instagram_username:
+linkedin_username:
+
+# Blog Settings
+paginate: 5
+paginate_path: "/posts/page:num/"
+show_reading_time: true
+reading_time_words_per_minute: 150
+
+# Theme Colors
+theme:
+  primary_color: "#F57B20"
+  secondary_color: "#4C4C4D"
+  accent_color: "#2C3E50"
+
+# Google Analytics
+google_analytics: UA-XXXXXXXXX-X
+
+# Disqus Comments
+disqus:
+  shortname: slayinthegame  # Replace with your Disqus shortname
+  show_comments: true
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap

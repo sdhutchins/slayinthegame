@@ -1,0 +1,53 @@
+// Custom styles and overrides
+// Add your custom styles below this line
+
+// Example:
+// .navbar-custom {
+//   background-color: #your-color;
+// }
+
+// .post-heading {
+//   h1 {
+//     font-size: 2.5rem;
+//   }
+// }
+
+h1 {
+    color: white;
+}
+
+// Improve cursor behavior for interactive elements
+a, 
+button,
+[role="button"],
+input[type="submit"],
+input[type="button"],
+input[type="reset"],
+.nav-link,
+.btn {
+    cursor: pointer;
+    
+    &:hover {
+        cursor: pointer;
+    }
+}
+
+// Remove text selection on clickable elements
+a, button, [role="button"] {
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+// Post preview hover styles
+.post-preview {
+    > a {
+        text-decoration: none;
+        
+        &:hover {
+            .post-title,
+            .post-subtitle {
+                color: #F57B20;
+            }
+        }
+    }
+} 
