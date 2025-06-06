@@ -6,6 +6,7 @@ date: 2025-06-04
 background: '/img/posts/bg.png'
 categories: [Introduction]
 tags: [basketball, WNBA, NBA]
+comments: true
 ---
 
 Welcome to Slayin' the Game! I'm Maven, a computational biologist by day and basketball fanatic by night. This blog is my space to share thoughts and observations about the game I love while focusing on both the NBA and WNBA (with some women's college basketball sprinkled in).
