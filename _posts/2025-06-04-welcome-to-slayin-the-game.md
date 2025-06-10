@@ -3,7 +3,7 @@ layout: post
 title: "Welcome to Slayin' the Game"
 subtitle: "A space for thoughtful basketball discussion"
 date: 2025-06-04
-background: '/img/posts/bg.png'
+background: '/img/posts/post-bg.png'
 categories: [Introduction]
 tags: [basketball, WNBA, NBA]
 comments: true
@@ -13,7 +13,7 @@ Welcome to Slayin' the Game! I'm Maven, a computational biologist by day and bas
 
 ## What to Expect
 
-While I won't be primarily focusing on in-depth statistical analyses or complex film breakdowns that you might find from excellent analysts like Nekias Duncan or Mike Prada, I hope to provide thoughtful observations and fair critiques of both men's and women's basketball. My goal is to:
+While I won't be primarily focusing on in-depth statistical analyses or complex film breakdowns that you might find from excellent analysts like [Nekias Duncan](https://x.com/NekiasNBA) or [Mike Prada](https://x.com/mikepradanba), I hope to provide thoughtful observations and fair critiques of both men's and women's basketball. My goal is to:
 
 - Discuss key storylines and player developments
 - Discuss some higher-level stats (lineups, on/off, etc.)
@@ -31,9 +31,10 @@ As someone with a background in data analysis, I appreciate the analytical side 
 - The intersection of analytics and eye test
 - The unique aspects that make both leagues special
 
-## What's Coming
+## What's Coming This Summer
 
 I'll be covering:
+
 - WNBA season storylines and developments
 - NBA season, playoff race and postseason analysis
 - Rookie development and impact
