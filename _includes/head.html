@@ -18,6 +18,27 @@
   <meta property="og:description" content="{{ page.excerpt | default: site.description }}">
   <meta property="og:type" content="website">
   <meta property="og:url" content="{{ page.url | absolute_url }}">
+  {% if page.image %}
+  <meta property="og:image" content="{{ page.image | absolute_url }}">
+  {% elsif page.background %}
+  <meta property="og:image" content="{{ page.background | absolute_url }}">
+  {% else %}
+  <meta property="og:image" content="{{ '/img/bg.png' | absolute_url }}">
+  {% endif %}
+  
+  <!-- Twitter Card Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@{{ site.twitter_username }}">
+  <meta name="twitter:creator" content="@{{ site.twitter_username }}">
+  <meta name="twitter:title" content="{{ page.title | default: site.title }}">
+  <meta name="twitter:description" content="{{ page.excerpt | default: site.description }}">
+  {% if page.image %}
+  <meta name="twitter:image" content="{{ page.image | absolute_url }}">
+  {% elsif page.background %}
+  <meta name="twitter:image" content="{{ page.background | absolute_url }}">
+  {% else %}
+  <meta name="twitter:image" content="{{ '/img/bg.png' | absolute_url }}">
+  {% endif %}
 
   <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet'
     type='text/css'>

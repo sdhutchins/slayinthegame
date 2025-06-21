@@ -3,7 +3,8 @@ layout: post
 title: "Welcome to Slayin' the Game"
 subtitle: "A space for thoughtful basketball discussion"
 date: 2025-06-04
-background: '/img/posts/post-bg.png'
+image: /img/posts/new-post.png
+background: /img/posts/post-bg.png
 categories: [Introduction]
 tags: [basketball, WNBA, NBA]
 comments: true
@@ -46,4 +47,4 @@ I'll be covering:
 
 This is meant to be a space for thoughtful basketball discussion. I welcome different perspectives and insights from fellow fans. Whether you're a die-hard WNBA fan, NBA enthusiast, or love both leagues, there's a place for you here.
 
-*What aspects of basketball are you most interested in discussing? Let me know in the comments below!* 
+*What aspects of basketball are you most interested in discussing? Let me know in the comments below!*
