@@ -1,50 +1,61 @@
 ---
 layout: post
-title: "Welcome to Slayin' the Game"
-subtitle: "A space for thoughtful basketball discussion"
-date: 2025-06-04
+title: "Searching for Stability"
+subtitle: "How the Sky Can Use Kamilla Cardoso’s Absence to Test What Really Works"
+date: 2025-06-24
 image: /img/posts/new-post.png
 background: /img/posts/post-bg.png
 categories: [Introduction]
-tags: [basketball, WNBA, NBA]
+tags: [WNBA, Chicago Sky, Kamilla Cardoso, Angel Reese, Ariel Atkins]
 comments: true
 ---
 
-Welcome to Slayin' the Game! I'm Maven, a computational biologist by day and basketball fanatic by night. This blog is my space to share thoughts and observations about the game I love while focusing on both the NBA and WNBA (with some women's college basketball sprinkled in).
+Tonight’s Sky vs Sparks game will be the last that Kamilla Cardoso plays before fulfilling [national team duties]() with Brazil at the 2025 FIBA Women’s AmeriCup.
 
-## What to Expect
+Her absence (while temporary) creates a valuable window for the Sky to experiment. Ariel Atkins, Angel Reese, and Cardoso have formed a reliable core when on the floor together. With Cardoso gone, the question becomes: who fits best around that core when she returns?
 
-While I won't be primarily focusing on in-depth statistical analyses or complex film breakdowns that you might find from excellent analysts like [Nekias Duncan](https://x.com/NekiasNBA) or [Mike Prada](https://x.com/mikepradanba), I hope to provide thoughtful observations and fair critiques of both men's and women's basketball. My goal is to:
+This stretch is a chance to stress-test options and build cohesion around players like Michaela Onyenwere, who’s quietly become the fourth piece of that core. She defends, rebounds, and doesn’t require the ball to make an impact. Her athleticism and ability to guard multiple positions give the Sky flexibility they badly need.
 
-- Discuss key storylines and player developments
-- Discuss some higher-level stats (lineups, on/off, etc.)
-- Share insights from watching games
-- Celebrate the growth of women's basketball
-- Connect the dots between the NBA and WNBA
+That leaves Tyler Marsh with a critical decision: Rebecca Allen, Rachel Banham, or Hailey Van Lith as the fifth starter.
 
-## My Approach
+Below I dive into the data and discuss what lineups might help the Sky find some stability during this stretch and what could carry over when Cardoso returns.
 
-As someone with a background in data analysis, I appreciate the analytical side of basketball, but I also love the human elements of the game. You'll find a mix of:
+## The Sky's Core: Atkins + Reese + Cardoso  
 
-- Game observations and takeaways
-- Player spotlights and development tracking
-- Team dynamics and chemistry
-- The intersection of analytics and eye test
-- The unique aspects that make both leagues special
+The athletic and versatile trio of Atkins, Reese, and Cardoso anchor many of the Sky's lineups, and we can imagine that this fits the vision Sky GM Jeff Pagliocca imagined.
 
-## What's Coming This Summer
+Atkins and Reese offer versatility on both ends as secondary initiators and switchable defenders. Atkins ranks 5th in the WNBA in steals per game (1.9), and Reese ranks 10th (1.6) while also leading the league in offensive rebounds (4.0 per game). These two are anchored by the interior scoring, rim protection, rim running, and often overlooked passing of Cardoso, who is shooting 54.7% from the field (3rd in the WNBA) and averaging 1.6 assists per game.
 
-I'll be covering:
+With the core three established, the next question becomes: who plays best alongside them?
 
-- WNBA season storylines and developments
-- NBA season, playoff race and postseason analysis
-- Rookie development and impact
-- Team transformations and chemistry
-- Trades and free agent signings
-- The evolution of the game
+## Onyenwere Is Earning a Permanent Spot  
 
-## Join the Conversation
+Michaela Onyenwere has quietly emerged as a core rotation player. Her value doesn’t come from volume scoring or flashy box scores, but from doing the small things—defending multiple positions, rebounding, and making herself available without needing plays run for her. She’s been the connective piece in many of the team’s better lineups.
 
-This is meant to be a space for thoughtful basketball discussion. I welcome different perspectives and insights from fellow fans. Whether you're a die-hard WNBA fan, NBA enthusiast, or love both leagues, there's a place for you here.
+When the trio of Atkins, Reese, and Cardoso is paired with Onyenwere and Van Lith, the lineup posts a +19.2 NetRtg in 14 minutes. Swapping in Banham for HVL raises that to +22.5 NetRtg in 13 minutes. But when that same core is surrounded by Allen and Nurse, the group drops to –28.0 across 37 minutes. These are small samples, but the drop-off is hard to ignore.
 
-*What aspects of basketball are you most interested in discussing? Let me know in the comments below!*
+The four-player lineups back this up as well. When Onyenwere joins Williams, Banham, and HVL, the group sits at –5.1 NetRtg across 40 minutes. It’s not necessarily a "good" number, but it is better than most other combinations. Quartets built around Allen or Nurse struggle to generate efficient offense.
+
+It’s becoming harder to imagine the best version of the Sky’s starting five without Onyenwere in it. She makes lineups more athletic, more cohesive, and more versatile.
+
+## Choosing the 5th Core Player: Allen vs Banham vs HVL  
+
+If Marsh adds Onyenwere to the starting group, the final question becomes: who fits best alongside her, Cardoso, Reese, and Atkins?
+
+I previously mentioned how Banham and HVL, when paired with Onyenwere, have each anchored one of the Sky’s most productive lineups. The Banham version leads, posting a +22.5 NetRtg and a 3.00 assist-to-turnover ratio. The HVL lineup is close behind at +19.2, offering more pace and better ball movement, with an 80 percent assist rate and solid shot creation. Both guards add structure and tempo to the offense—especially when Onyenwere is on the floor doing the dirty work and defending across positions.
+
+Allen’s fit is trickier. When she joins Reese, Atkins, Banham, and Williams, the group posts a –0.3 NetRtg across 20 minutes—not dominant, but steadier than most. When paired with Cardoso instead of Williams, however, the numbers are worse. For example, the Allen–Atkins–Nurse–Cardoso–Reese lineup has a –28.0 NetRtg in 37 minutes, struggling defensively (118.3 DefRtg). However, when Banham replaces Nurse, that group improves to a –11.6 NetRtg in 25 minutes.
+
+The difference points to a clear trend: Allen thrives with more structure around her. She’s most effective when surrounded by multiple ball handlers like Banham with Atkins and a mobile big who can cover space and rebound. The Sky need her size, length, and spacing, but she can’t be expected to help organize the offense.
+
+With Cardoso out, this Sky should consider starting the Allen–Williams–Banham–Atkins–Reese lineup. That combination has shown signs of being productive, and Onyenwere could be shifted to the four to start instead with Williams coming off the bench as the backup five. Either approach keeps the Sky balanced on both ends while avoiding the lowest-performing lineups seen so far.
+
+## Looking Forward  
+
+So how can the Sky use Cardoso’s absence to test what really works?
+
+The Sky must lean into lineups that establish the team’s identity. That starts with trusting Onyenwere more. It likely means giving more minutes to Banham or HVL. Also, it means avoiding lineups without any shot creators.
+
+This stretch is a chance to lock in combinations that can carry over when Cardoso returns. What the Sky learn now could help them start building something sustainable.
+
+*Who should start while Cardoso is at the AmeriCup and who should keep that spot when she’s back? Let’s talk in the comments.*
