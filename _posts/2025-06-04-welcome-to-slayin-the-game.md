@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Searching for Stability"
-subtitle: "How the Sky Can Use Kamilla Cardoso’s Absence to Test What Really Works"
+title: "The Chicago Sky's Search for Stability"
+subtitle: "How They Can Use Kamilla Cardoso’s Absence to Test What Really Works"
 date: 2025-06-24
 image: /img/posts/new-post.png
 background: /img/posts/post-bg.png
@@ -10,7 +10,7 @@ tags: [WNBA, Chicago Sky, Kamilla Cardoso, Angel Reese, Ariel Atkins]
 comments: true
 ---
 
-Tonight’s Sky vs Sparks game will be the last that Kamilla Cardoso plays before fulfilling [national team duties]() with Brazil at the 2025 FIBA Women’s AmeriCup.
+Tonight’s Sky vs Sparks game will be the last that Kamilla Cardoso plays before fulfilling [national team duties](https://fansided.com/nba/angel-reese-sky-players-kamilla-cardoso-americup) with Brazil at the 2025 FIBA Women’s AmeriCup.
 
 Her absence (while temporary) creates a valuable window for the Sky to experiment. Ariel Atkins, Angel Reese, and Cardoso have formed a reliable core when on the floor together. With Cardoso gone, the question becomes: who fits best around that core when she returns?
 
