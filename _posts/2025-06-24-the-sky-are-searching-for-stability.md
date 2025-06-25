@@ -5,8 +5,8 @@ subtitle: "How They Can Use Kamilla Cardoso's Absence to Test What Really Works"
 date: 2025-06-24
 image: /img/posts/new-post.png
 background: /img/posts/post-bg.png
-categories: [Deep Dives]
-tags: [WNBA, Chicago Sky, Kamilla Cardoso, Angel Reese, Ariel Atkins]
+categories: [Analysis]
+tags: [WNBA, Chicago Sky, Kamilla Cardoso, Angel Reese, Ariel Atkins, Lineups, Tyler Marsh, Michaela Onyenwere, Rebecca Allen, Rachel Banham, Hailey Van Lith]
 comments: true
 excerpt: "Tonight's Sky vs Sparks game will be the last that Kamilla Cardoso plays before fulfilling national team duties with Brazil at the 2025 FIBA Women’s AmeriCup."
 ---
