@@ -30,11 +30,11 @@ With the core three established, the next question becomes: who plays best along
 
 ## Onyenwere Is Earning a Permanent Spot  
 
-Michaela Onyenwere has quietly emerged as a core rotation player. Her value doesn’t come from volume scoring or flashy box scores, but from doing the small things—defending multiple positions, rebounding, and making herself available without needing plays run for her. She’s been the connective piece in many of the team’s better lineups.
+Michaela Onyenwere has quietly emerged as a core rotation player. Her value doesn’t come from volume scoring or flashy box scores, but from doing the small things like defending multiple positions, rebounding, and making herself available without needing plays run for her. She’s been the connective piece in many of the team’s better lineups.
 
 When the trio of Atkins, Reese, and Cardoso is paired with Onyenwere and Van Lith, the lineup posts a +19.2 NetRtg in 14 minutes. Swapping in Banham for HVL raises that to +22.5 NetRtg in 13 minutes. But when that same core is surrounded by Allen and Nurse, the group drops to –28.0 across 37 minutes. These are small samples, but the drop-off is hard to ignore.
 
-The four-player lineups back this up as well. When Onyenwere joins Williams, Banham, and HVL, the group sits at –5.1 NetRtg across 40 minutes. It’s not necessarily a "good" number, but it is better than most other combinations. Quartets built around Allen or Nurse struggle to generate efficient offense.
+The four-player lineups back this up as well. When Onyenwere joins Elizabeth Williams, Banham, and HVL, the group sits at –5.1 NetRtg across 40 minutes. It’s not necessarily a "good" number, but it is better than most other combinations. Quartets built around Allen or Nurse struggle to generate efficient offense.
 
 It’s becoming harder to imagine the best version of the Sky’s starting five without Onyenwere in it. She makes lineups more athletic, more cohesive, and more versatile.
 
@@ -42,9 +42,9 @@ It’s becoming harder to imagine the best version of the Sky’s starting five 
 
 If Marsh adds Onyenwere to the starting group, the final question becomes: who fits best alongside her, Cardoso, Reese, and Atkins?
 
-I previously mentioned how Banham and HVL, when paired with Onyenwere, have each anchored one of the Sky’s most productive lineups. The Banham version leads, posting a +22.5 NetRtg and a 3.00 assist-to-turnover ratio. The HVL lineup is close behind at +19.2, offering more pace and better ball movement, with an 80 percent assist rate and solid shot creation. Both guards add structure and tempo to the offense—especially when Onyenwere is on the floor doing the dirty work and defending across positions.
+I previously mentioned how Banham and HVL, when paired with Onyenwere, have each anchored one of the Sky’s most productive lineups. The Banham version leads with a +22.5 NetRtg. The HVL lineup is close behind at +19.2 and offers more pace and better ball movement. Both guards add more structure and tempo to the offense, especially when Onyenwere is on the floor doing the dirty work and defending across positions.
 
-Allen’s fit is trickier. When she joins Reese, Atkins, Banham, and Williams, the group posts a –0.3 NetRtg across 20 minutes—not dominant, but steadier than most. When paired with Cardoso instead of Williams, however, the numbers are worse. For example, the Allen–Atkins–Nurse–Cardoso–Reese lineup has a –28.0 NetRtg in 37 minutes, struggling defensively (118.3 DefRtg). However, when Banham replaces Nurse, that group improves to a –11.6 NetRtg in 25 minutes.
+Allen’s fit is trickier. When she joins Reese, Atkins, Banham, and Williams, the group posts a –0.3 NetRtg across 20 minutes which is not dominant, but better than most Sky 5 player lineups. When paired with Cardoso instead of Williams, however, the numbers are worse. For example, the Allen–Atkins–Nurse–Cardoso–Reese lineup has a –28.0 NetRtg in 37 minutes, struggling defensively (118.3 DefRtg). However, when Banham replaces Kia Nurse, that group improves to a –11.6 NetRtg in 25 minutes.
 
 The difference points to a clear trend: Allen thrives with more structure around her. She’s most effective when surrounded by multiple ball handlers like Banham with Atkins and a mobile big who can cover space and rebound. The Sky need her size, length, and spacing, but she can’t be expected to help organize the offense.
 
