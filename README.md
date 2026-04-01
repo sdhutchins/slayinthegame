@@ -122,6 +122,16 @@ When using the core files, the demo images, posts, and pages are all included wi
 
 3. Build your site: `bundle exec jekyll serve`
 
+## Frontend script load order
+
+Scripts are included from `_includes/scripts.html` in this order:
+
+1. jQuery (CDN)
+2. Bootstrap bundle (CDN)
+3. Theme JavaScript: `assets/vendor/startbootstrap-clean-blog/js/scripts.js`
+4. Site overrides: `assets/scripts.js`
+5. On the contact page only: `jqBootstrapValidation.js` and the inline Formspree handler
+
 ## Copyright and License
 
 View the license at [LICENSE](LICENSE).

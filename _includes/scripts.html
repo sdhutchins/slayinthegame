@@ -17,7 +17,7 @@
           // additional error messages or events
         },
         submitSuccess: function ($form, event) {
-          event.preventDefault(); // prevent default submit behaviour
+          event.preventDefault(); // prevent default submit behavior
           // get values from FORM
           var name = $("input#name").val();
           var email = $("input#email").val();
@@ -28,8 +28,8 @@
           if (firstName.indexOf(' ') >= 0) {
             firstName = name.split(' ').slice(0, -1).join(' ');
           }
-          $this = $("#sendMessageButton");
-          $this.prop("disabled", true); // Disable submit button until AJAX call is complete to prevent duplicate messages
+          var $submitBtn = $("#sendMessageButton");
+          $submitBtn.prop("disabled", true); // Disable submit until AJAX finishes to avoid duplicate posts
           $.ajax({
             url: "//formspree.io/{{ site.email }}",
             type: "POST",
@@ -60,7 +60,7 @@
             },
             complete: function () {
               setTimeout(function () {
-                $this.prop("disabled", false); // Re-enable submit button when AJAX call is complete
+                $submitBtn.prop("disabled", false); // Re-enable after AJAX completes
               }, 1000);
             }
           });
